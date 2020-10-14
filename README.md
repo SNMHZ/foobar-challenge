@@ -6,5 +6,4 @@
 
 
 ### LV.1
- - [I Love Lance & Janice](/LV1
- /I_Love_Lance_&_Janice.md)
+ - [I Love Lance & Janice](/LV1/I_Love_Lance_&_Janice.md)
