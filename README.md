@@ -2,7 +2,7 @@
 
 초대장을 받았어요
 ![invitation](/etc/invitation.png)
-
+![invitation_console](/etc/invitation_console.png)
 
 
 ### LV.1
