@@ -3,4 +3,4 @@
 
 
 ### LV.1
- - [I Love Lance & Janice](/LV1/I Love Lance & Janice.md)
+ - [I Love Lance & Janice](/document/Week1.md)
